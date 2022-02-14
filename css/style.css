@@ -7,12 +7,12 @@
 }
 .header-title {
 	display: block;
-	font-size: 20px;
+	font-size: 40px;
 	text-transform: uppercase;
 	text-align: center;
 }
 .header-title:active {
-	background: url("/img/ris.-1-roza-pink-flojd.jpg") center / cover no-repeat;
+	background: url("../img/ris.-1-roza-pink-flojd.jpg") center / cover no-repeat;
 	height: 400px;
 	width: 400px;
 }
